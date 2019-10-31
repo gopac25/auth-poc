@@ -2,11 +2,11 @@ variable "AWS_REGION" {
   default = "ap-south-1"
 }
 variable "aws_access_key" {
-  default = "AKIAJIO7E6CP5LKEYZ3Q"
+  default = ""
 }
 
 variable "aws_secret_key" {
-  default = "6wWeRIBt4SsmrPo5mgmeoOhz1a+CZVr1Vwkmlcsr"
+  default = ""
 }
 
 variable "AMIS" {
